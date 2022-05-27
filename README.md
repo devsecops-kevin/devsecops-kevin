@@ -1,12 +1,16 @@
 ### Hi, there! I'm Kevin Seo! 👋 
-I'm a Cloud DevSecOps Engineer who is interested in task automation. I almost remain side project repositories as <b>private</b>.
+I'm a Cloud DevSecOps Engineer who is interested in task automation. I almost remain side project repositories as **private**.
 
-#### Currently learning 🌱
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=di3n5749&count_private=true&theme=nord&hide_border=true&show_icons=true)
+
+
+
+#### **Currently learning** 🌱
 - Solutions Architect Certificate for &nbsp;<img height='20' src='https://img.shields.io/badge/AWS-ff9900?logo=amazon-aws&logoColor=white' />
 - <img height='20' src='https://img.shields.io/badge/Terraform-5835cc?logo=terraform&logoColor=white' />
 - <img height='20' src='https://img.shields.io/badge/GraphQL-e10098?logo=graphql&logoColor=white' />
 
-#### Mainly develop with ✨
+#### **Mainly develop with** ✨
 - Language: 
   <img height='20' src='https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white' />&nbsp;
   <img height='20' src='https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white' />&nbsp;
@@ -27,6 +31,7 @@ I'm a Cloud DevSecOps Engineer who is interested in task automation. I almost re
   <img height='20' src='https://img.shields.io/badge/GCP-4285f4?logo=google-cloud&logoColor=white' />&nbsp;
   <img height='20' src='https://img.shields.io/badge/OCI-f80000?logo=oracle&logoColor=white' />&nbsp;
 
-#### How to reach me 📫
+#### **How to reach me** 📫
+[![Github Badge](https://img.shields.io/badge/Github-black?logo=github&link=https://github.com/di3n5749/di3n5749/issues)](https://github.com/di3n5749/di3n5749/issues)&nbsp;
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?logo=youtube&link=https://www.youtube.com/channel/UCW0XH4l4G8s77ERi7vQiwdA?view_as=subscriber&sub_confirmation=1)](https://www.youtube.com/channel/UCW0XH4l4G8s77ERi7vQiwdA?view_as=subscriber&sub_confirmation=1)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:devsecops.kevin@gmail.com)](mailto:devsecops.kevin@gmail.com)
