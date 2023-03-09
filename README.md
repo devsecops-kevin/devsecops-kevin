@@ -1,7 +1,7 @@
 ### Hi, there! I'm Kevin Seo! 👋 
 I'm a Cloud DevSecOps Engineer who is interested in task automation. I almost remain side project repositories as **private**.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=di3n5749&count_private=true&theme=nord&hide_border=true&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devsecops-kevin&count_private=true&theme=nord&hide_border=true&show_icons=true)
 
 
 
